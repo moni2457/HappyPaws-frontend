@@ -1,0 +1,30 @@
+/************
+ * Author: Vigneshwari Ravichandran
+ **********/
+ 
+.FormAdopt{
+  background:white;
+  
+}
+
+
+.row{
+  padding-left: 100px;
+  padding-bottom: 20px;
+  justify-content: space-evenly;
+}
+
+
+
+
+.textarea{
+  height: 200px;
+  width: 400px;
+}
+
+[alt="Volunteer"]{
+  max-width: 100%;
+    height: auto;
+  box-shadow: 0 4px 5px black;
+  border-radius: 8px;
+}
